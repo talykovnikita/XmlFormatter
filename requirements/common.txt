@@ -1,0 +1,6 @@
+# Python 3.9.0
+# Kivy
+kivy[base]==2.1.0
+
+# Copy to clipboard
+pyperclip==1.8.2
